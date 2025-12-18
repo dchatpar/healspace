@@ -1,0 +1,7 @@
+{
+  "name": "HealSpace: Compassionate Listening",
+  "description": "A secure, anonymous platform connecting seekers with empathetic listeners for high-fidelity human connection without barriers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
